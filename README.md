@@ -19,12 +19,12 @@ pip install -r requirements.txt
 
 Once set up, this single environment will work for all examples in the repository.
 
-Setting Up API Keys
-Create an account in Google Cloud https://cloud.google.com/?hl=en
-Create a new project
-Go to https://aistudio.google.com/apikey
-Create an API key
-Assign key to the project
+# Setting Up API Keys
+1. Create an account in Google Cloud https://cloud.google.com/?hl=en
+2. Create a new project
+3. Go to https://aistudio.google.com/apikey
+4. Create an API key
+5. Assign key to the project
 
 
 GOOGLE_API_KEY=your_api_key_here
