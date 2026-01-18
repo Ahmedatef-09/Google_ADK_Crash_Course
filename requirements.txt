@@ -1,3 +1,6 @@
 google-adk[all] == 1.21.0
 python-dotenv == 1.2.1
 google-generativeai == 0.8.6
+litellm
+pydantic == 2.12.5
+aiosqlite

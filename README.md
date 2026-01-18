@@ -28,3 +28,10 @@ Once set up, this single environment will work for all examples in the repositor
 
 
 GOOGLE_API_KEY=your_api_key_here
+
+# to run from root folder
+python -m src.Sessions_memory.run_agents_sessions
+
+# to debug
+
+breakpoint() 
